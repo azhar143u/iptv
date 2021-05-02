@@ -1,51 +1,52 @@
-#EXTM3U:-1 tvg-id=”” tvg-name=Bravo Islamic
+#EXTM3U 
+#EXTINF:-1,Bravo Islamic
 http://58.65.194.14:1935/live/Bravo1.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=Bravo Naaya
+#EXTINF:-1,Bravo Naaya
 http://58.65.194.14:1935/live/Bravo4.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=Bravo Sub Rung
+#EXTINF:-1,Bravo Sub Rung
 http://58.65.194.14:1935/live/Bravo_sub_rung.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=Bravo Family
+#EXTINF:-1,Bravo Family
 http://58.65.194.14:1935/live/Bravo-Family.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=Bravo Now
+#EXTINF:-1,Bravo Now
 http://58.65.194.14:1935/live/Bravo-now.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=ARY News
+#EXTINF:-1,ARY News
 http://58.65.194.14:1935/live/Ary-news.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=Geo News
+#EXTINF:-1,Geo News
 http://58.65.194.14:1935/live/Geo-news.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”Samma News”
+#EXTINF:-1,Samma News
 http://58.65.194.14:1935/live/Samaa.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”Express News”
+#EXTINF:-1,Express News
 http://58.65.194.14:1935/live/express.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”Aaj News”
+#EXTINF:-1,Aaj News
 http://58.65.194.14:1935/live/AajNews.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”Dunia News”
+#EXTINF:-1,Dunia News
 http://58.65.194.14:1935/live/DunyaNews.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”Neo News”
+#EXTINF:-1,Neo News
 http://58.65.194.14:1935/live/NeoNewsHD.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”GNN News”
+#EXTINF:-1,GNN News
 http://58.65.194.14:1935/live/GNN-HD.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”BOL News”
+#EXTINF:-1,BOL News
 http://58.65.194.14:1935/live/BOL-TV.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”News One”
+#EXTINF:-1,News One
 http://58.65.194.14:1935/live/News-One.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”92 News”
+#EXTINF:-1,92 News
 http://58.65.194.14:1935/live/92-news.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”PTV News”
+#EXTINF:-1,PTV News
 http://58.65.194.14:1935/live/PTV-News.stream/playlist.m3u8
 
