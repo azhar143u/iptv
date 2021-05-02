@@ -76,3 +76,177 @@ http://58.65.194.14:1935/live/ChannelNewsAsia.stream/playlist.m3u8
 
 #EXTINF:-1,Bloomberg
 http://58.65.194.14:1935/live/Bloomberg.stream/playlist.m3u8
+
+#EXTINF:-1,Al Arabiya
+http://58.65.194.14:1935/live/Al Araybia.stream/playlist.m3u8
+
+#EXTINF:-1,TRT World HD
+http://58.65.194.14:1935/live/TRTWorldHD.stream/playlist.m3u8
+
+#EXTINF:-1,AlJazeera News
+http://58.65.194.14:1935/live/AlJazeera.stream/playlist.m3u8
+
+#EXTINF:-1,France 24 News HD
+http://58.65.194.14:1935/live/France24.stream/playlist.m3u8
+
+#EXTINF:-1,Euro News
+http://58.65.194.14:1935/live/Euro-news.stream/playlist.m3u8
+
+#EXTINF:-1,BBC News
+http://58.65.194.14:1935/live/BBC-world-news-HD.stream/playlist.m3u8
+
+#EXTINF:-1,CNN
+http://58.65.194.14:1935/live/CNN.stream/playlist.m3u8
+
+#EXTINF:-1,DW News
+http://58.65.194.14:1935/live/DW-News.stream/playlist.m3u8
+
+#EXTINF:-1,NBC Golf HD
+http://58.65.194.14:1935/live/AMCHD.stream/playlist.m3u8
+
+#EXTINF:-1,AD Sports 3 HD
+http://58.65.194.14:1935/live/Fast and Funbox.stream/playlist.m3u8
+
+#EXTINF:-1,Al Khass 4 HD
+http://58.65.194.14:1935/live/Planet Earth HD.stream/playlist.m3u8
+
+#EXTINF:-1,AD Sports 4 HD
+http://58.65.194.14:1935/live/Familymovieshd.stream/playlist.m3u8
+
+#EXTINF:-1,Extreme Sports HD
+http://58.65.194.14:1935/live/Extreme Sports HD.stream/playlist.m3u8
+
+#EXTINF:-1,AD Sports 2 HD
+http://58.65.194.14:1935/live/HBO.stream/playlist.m3u8
+
+#EXTINF:-1,Euro Sports 2 HD
+http://58.65.194.14:1935/live/Eurosport-2-HD.stream/playlist.m3u8
+
+#EXTINF:-1,Euro Sports 1 HD
+http://58.65.194.14:1935/live/Euro-sport-1-HD.stream/playlist.m3u8
+
+#EXTINF:-1,Bein Sports HD 4
+http://58.65.194.14:1935/live/bein-sports-13.stream/playlist.m3u8
+
+#EXTINF:-1,Bein Sports HD 12
+http://58.65.194.14:1935/live/ZooMooHD.stream/playlist.m3u8
+
+#EXTINF:-1,Bein Sports HD 2
+http://58.65.194.14:1935/live/trace sports HD.stream/playlist.m3u8
+
+#EXTINF:-1,Bein Sports HD
+http://58.65.194.14:1935/live/bein_sports.stream/playlist.m3u8
+
+#EXTINF:-1,Bein Sports HD 3
+http://58.65.194.14:1935/live/BoomerangHD.stream/playlist.m3u8
+
+#EXTINF:-1,Bein Sports HD 11
+http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
+
+#EXTINF:-1,Ten Sports
+http://58.65.194.14:1935/live/tensports.stream/playlist.m3u8
+
+#EXTINF:-1,PTV Sports
+http://58.65.194.14:1935/live3/PTV-Sports.stream_480p/playlist.m3u8
+
+#EXTINF:-1,Geo Super
+http://58.65.194.14:1935/live3/Geo-super.stream_480p/playlist.m3u8
+
+#EXTINF:-1,Sindh TV
+http://58.65.194.14:1935/live/Sindh-TV.stream/playlist.m3u8
+
+#EXTINF:-1,ATV
+http://58.65.194.14:1935/live/ATV.stream/playlist.m3u8
+
+#EXTINF:-1,A Plus
+http://58.65.194.14:1935/live/APlus.stream/playlist.m3u8
+
+#EXTINF:-1,PTV National
+http://58.65.194.14:1935/live/PTV-National.stream/playlist.m3u8
+
+#EXTINF:-1,Hum Sitaray
+http://58.65.194.14:1935/live/Hum-sitaray.stream/playlist.m3u8
+
+#EXTINF:-1,Geo Kahani
+http://58.65.194.14:1935/live/Geo Khani.stream/playlist.m3u8
+
+#EXTINF:-1,Aaj Entertainment
+http://58.65.194.14:1935/live/Aaj-Ent.stream/playlist.m3u8
+
+#EXTINF:-1,PTV Home
+http://58.65.194.14:1935/live/PTV-Home.stream/playlist.m3u8
+
+#EXTINF:-1,ARY Zindagi
+http://58.65.194.14:1935/live/ARY-Zindagi.stream/playlist.m3u8
+
+#EXTINF:-1,TV One
+http://58.65.194.14:1935/live/TV-One.stream/playlist.m3u8
+
+#EXTINF:-1,Aruj TV
+http://58.65.194.14:1935/Voice Transcode/Aruj.stream_aac/playlist.m3u8
+
+#EXTINF:-1,PLAY Entertainment
+http://58.65.194.14:1935/live/Play-Entertainment.stream/playlist.m3u8
+
+#EXTINF:-1,BOL Entertainment
+http://58.65.194.14:1935/live/BOL-Entertainment.stream/playlist.m3u8
+
+#EXTINF:-1,Geo Entertainment
+http://58.65.194.14:1935/live/Geo-entertainment.stream/playlist.m3u8
+
+#EXTINF:-1,ARY Digital
+http://58.65.194.14:1935/live/Ary-digital.stream/playlist.m3u8
+
+#EXTINF:-1,Express Entertainment
+http://58.65.194.14:1935/live/Express-entertainment.stream/playlist.m3u8
+
+#EXTINF:-1,Hum TV
+http://58.65.194.14:1935/live/Hum-tv.stream/playlist.m3u8
+
+#EXTINF:-1,Urdu 1
+http://58.65.194.14:1935/live/Urdu-1.stream/playlist.m3u8
+
+#EXTINF:-1,Hum Masala
+http://58.65.194.14:1935/live/Hum-masala.stream/playlist.m3u8
+
+#EXTINF:-1,Al Sunnah HD
+http://58.65.194.14:1935/live/Al-Sunnah-HD.stream/playlist.m3u8
+
+#EXTINF:-1,Al Quran ul Kareem
+http://58.65.194.14:1935/live/English Club TV.stream/playlist.m3u8
+
+#EXTINF:-1,Peace TV English
+http://58.65.194.14:1935/live/peace_tv.stream/playlist.m3u8
+
+#EXTINF:-1,ARY Qtv
+http://58.65.194.14:1935/live/ARYQTV.stream/playlist.m3u8
+
+#EXTINF:-1,Madani Channel
+http://58.65.194.14:1935/live/Madani-Channel.stream/playlist.m3u8
+
+#EXTINF:-1,Arrahman Arraheem
+http://58.65.194.14:1935/live/Arrehman-arreheem.stream/playlist.m3u8
+
+#EXTINF:-1,Minika Go
+http://58.65.194.14:1935/live/minika.stream/playlist.m3u8
+
+#EXTINF:-1,Nick Jr
+http://58.65.194.14:1935/live/NickJr.stream/playlist.m3u8
+
+#EXTINF:-1,Baby TV
+http://58.65.194.14:1935/live/Baby-TV.stream/playlist.m3u8
+
+#EXTINF:-1,Disney Junior hd
+http://58.65.194.14:1935/live/disney junior hd.stream/playlist.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://58.65.194.14:1935/live/Nickelodeon.stream/playlist.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://58.65.194.14:1935/live/Cartoon-network.stream/playlist.m3u8
+
+#EXTINF:-1,Travel Channel HD
+http://58.65.194.14:1935/live/Travel-Channel-HD.stream/playlist.m3u8
+
+#EXTINF:-1,Fox Life
+http://58.65.194.14:1935/live/History HD.stream/playlist.m3u8
