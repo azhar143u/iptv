@@ -50,3 +50,29 @@ http://58.65.194.14:1935/live/92-news.stream/playlist.m3u8
 #EXTINF:-1,PTV News
 http://58.65.194.14:1935/live/PTV-News.stream/playlist.m3u8
 
+#EXTINF:-1,Dawn News
+http://58.65.194.14:1935/live/Dawn-news.stream/playlist.m3u8
+
+#EXTINF:-1,SindhTV News
+http://58.65.194.14:1935/live/Sindh-TV-News.stream/playlist.m3u8
+
+#EXTINF:-1,Din News HD
+http://58.65.194.14:1935/live/Crime-Investigation.stream/playlist.m3u8
+
+#EXTINF:-1,Lahore News HD
+http://58.65.194.14:1935/live/myCinemaHD.stream/playlist.m3u8
+
+#EXTINF:-1,Capital News
+http://58.65.194.14:1935/live/CapitalTV.stream/playlist.m3u8
+
+#EXTINF:-1,ABB Tak News
+http://58.65.194.14:1935/live/ABB-Takk.stream/playlist.m3u8
+
+#EXTINF:-1,Such TV
+http://58.65.194.14:1935/live/SuchTV.stream/playlist.m3u8
+
+#EXTINF:-1,Channel News Asia
+http://58.65.194.14:1935/live/ChannelNewsAsia.stream/playlist.m3u8
+
+#EXTINF:-1,Bloomberg
+http://58.65.194.14:1935/live/Bloomberg.stream/playlist.m3u8
