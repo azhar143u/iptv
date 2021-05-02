@@ -1,22 +1,22 @@
-#EXTM3U:-1 tvg-id=”” tvg-name=”Bravo Islamic”
+#EXTM3U:-1 tvg-id=”” tvg-name=Bravo Islamic
 http://58.65.194.14:1935/live/Bravo1.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”Bravo Naaya”
+#EXTM3U:-1 tvg-id=”” tvg-name=Bravo Naaya
 http://58.65.194.14:1935/live/Bravo4.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”Bravo Sub Rung”
+#EXTM3U:-1 tvg-id=”” tvg-name=Bravo Sub Rung
 http://58.65.194.14:1935/live/Bravo_sub_rung.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”Bravo Family”
+#EXTM3U:-1 tvg-id=”” tvg-name=Bravo Family
 http://58.65.194.14:1935/live/Bravo-Family.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”Bravo Now”
+#EXTM3U:-1 tvg-id=”” tvg-name=Bravo Now
 http://58.65.194.14:1935/live/Bravo-now.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”ARY News”
+#EXTM3U:-1 tvg-id=”” tvg-name=ARY News
 http://58.65.194.14:1935/live/Ary-news.stream/playlist.m3u8
 
-#EXTM3U:-1 tvg-id=”” tvg-name=”Geo News”
+#EXTM3U:-1 tvg-id=”” tvg-name=Geo News
 http://58.65.194.14:1935/live/Geo-news.stream/playlist.m3u8
 
 #EXTM3U:-1 tvg-id=”” tvg-name=”Samma News”
