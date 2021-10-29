@@ -149,6 +149,9 @@ http://58.65.194.14:1935/live/tensports.stream/playlist.m3u8
 #EXTINF:-1,PTV Sports
 http://58.65.194.14:1935/live3/PTV-Sports.stream_480p/playlist.m3u8
 
+#EXTINF:-1,ARY Sports
+http://58.65.194.14:1935/live4/Test-sports.stream_240p/playlist.m3u8
+
 #EXTINF:-1,Geo Super
 http://58.65.194.14:1935/live3/Geo-super.stream_480p/playlist.m3u8
 
