@@ -144,13 +144,13 @@ http://58.65.194.14:1935/live/BoomerangHD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
 
 #EXTINF:-1,Ten Sports
-http://58.65.194.14:1935/live/tensports.stream/playlist.m3u8
+http://10.209.126.1:1935/live/Ten-Sports-480p.stream/playlist.m3u8
 
 #EXTINF:-1,PTV Sports
-http://58.65.194.14:1935/live3/PTV-Sports.stream_480p/playlist.m3u8
+http://10.209.126.1:1935/live/PTV-Sports-480p.stream/playlist.m3u8
 
 #EXTINF:-1,ARY Sports
-http://58.65.194.14:1935/live4/Test-sports.stream_240p/playlist.m3u8
+http://10.209.126.1:1935/live/A-sport-480p.stream/playlist.m3u8
 
 #EXTINF:-1,Geo Super
 http://58.65.194.14:1935/live3/Geo-super.stream_480p/playlist.m3u8
