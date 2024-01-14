@@ -1,4 +1,8 @@
-#EXTM3U 
+#EXTM3U
+
+#EXTINF:-1,GreenTv
+http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
+
 #EXTINF:-1,ARY SPORTS
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
